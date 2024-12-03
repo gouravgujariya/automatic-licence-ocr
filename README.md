@@ -66,6 +66,6 @@ ALPR Parking Log Manager is an **Automatic License Plate Recognition (ALPR)** sy
 We love contributions! 🌟 Fork the repo, make your changes, and submit a PR. Let’s build the future of parking management together!  
 
 ## 📧 Support  
-Facing any issues? Reach out via [email@example.com](er.gouravgujariya@gmail.com).  
+Facing any issues? Reach out via [er.gouravgujariya@gmail.com](er.gouravgujariya@gmail.com).  
 
 ---  
